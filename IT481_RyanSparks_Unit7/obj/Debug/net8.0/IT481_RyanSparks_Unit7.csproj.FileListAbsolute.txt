@@ -1,0 +1,14 @@
+C:\Users\XxEnt\source\repos\IT481_RyanSparks_Unit7\IT481_RyanSparks_Unit7\bin\Debug\net8.0\IT481_RyanSparks_Unit7.exe
+C:\Users\XxEnt\source\repos\IT481_RyanSparks_Unit7\IT481_RyanSparks_Unit7\bin\Debug\net8.0\IT481_RyanSparks_Unit7.deps.json
+C:\Users\XxEnt\source\repos\IT481_RyanSparks_Unit7\IT481_RyanSparks_Unit7\bin\Debug\net8.0\IT481_RyanSparks_Unit7.runtimeconfig.json
+C:\Users\XxEnt\source\repos\IT481_RyanSparks_Unit7\IT481_RyanSparks_Unit7\bin\Debug\net8.0\IT481_RyanSparks_Unit7.dll
+C:\Users\XxEnt\source\repos\IT481_RyanSparks_Unit7\IT481_RyanSparks_Unit7\bin\Debug\net8.0\IT481_RyanSparks_Unit7.pdb
+C:\Users\XxEnt\source\repos\IT481_RyanSparks_Unit7\IT481_RyanSparks_Unit7\obj\Debug\net8.0\IT481_RyanSparks_Unit7.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\XxEnt\source\repos\IT481_RyanSparks_Unit7\IT481_RyanSparks_Unit7\obj\Debug\net8.0\IT481_RyanSparks_Unit7.AssemblyInfoInputs.cache
+C:\Users\XxEnt\source\repos\IT481_RyanSparks_Unit7\IT481_RyanSparks_Unit7\obj\Debug\net8.0\IT481_RyanSparks_Unit7.AssemblyInfo.cs
+C:\Users\XxEnt\source\repos\IT481_RyanSparks_Unit7\IT481_RyanSparks_Unit7\obj\Debug\net8.0\IT481_RyanSparks_Unit7.csproj.CoreCompileInputs.cache
+C:\Users\XxEnt\source\repos\IT481_RyanSparks_Unit7\IT481_RyanSparks_Unit7\obj\Debug\net8.0\IT481_RyanSparks_Unit7.dll
+C:\Users\XxEnt\source\repos\IT481_RyanSparks_Unit7\IT481_RyanSparks_Unit7\obj\Debug\net8.0\refint\IT481_RyanSparks_Unit7.dll
+C:\Users\XxEnt\source\repos\IT481_RyanSparks_Unit7\IT481_RyanSparks_Unit7\obj\Debug\net8.0\IT481_RyanSparks_Unit7.pdb
+C:\Users\XxEnt\source\repos\IT481_RyanSparks_Unit7\IT481_RyanSparks_Unit7\obj\Debug\net8.0\IT481_RyanSparks_Unit7.genruntimeconfig.cache
+C:\Users\XxEnt\source\repos\IT481_RyanSparks_Unit7\IT481_RyanSparks_Unit7\obj\Debug\net8.0\ref\IT481_RyanSparks_Unit7.dll
